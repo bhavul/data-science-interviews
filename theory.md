@@ -345,6 +345,9 @@ ROC stands for *Receiver Operating Characteristics*. The diagrammatic representa
 
 AUC stands for *Area Under the ROC Curve*. ROC is a probability curve and AUC represents degree or measure of separability. It's used when we need to value how much model is capable of distinguishing between classes.  The value is between 0 and 1, the higher the better.
 
+![AUC Graph | Courtesy : glassboxmedicine.com](https://glassboxmedicine.files.wordpress.com/2019/02/roc-curve-v2.png) 
+![ROC AUC | Courtesy : Google](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg)
+
 <br/>
 
 **How to interpret the AU ROC score? ‍⭐️**
@@ -388,6 +391,8 @@ Categorical variables must be encoded before they can be used as features to tra
 - Label encoding
 - Ordinal encoding
 - Target encoding
+
+![Label and One-hot encoding | Courtesy : Michael Dilsole](https://miro.medium.com/max/1260/0*T5jaa2othYfXZX9W.)
 
 <br/>
 
